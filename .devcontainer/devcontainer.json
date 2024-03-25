@@ -1,0 +1,7 @@
+{
+  "name": "skills-code-with-codespaces",
+  "image": "mcr.microsoft.com/vscode/devconatiners/universal:latest",
+
+  "remoteUser": "codespace",
+  "overrideCommand": false
+}
